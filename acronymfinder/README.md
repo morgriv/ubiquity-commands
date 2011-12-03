@@ -18,10 +18,10 @@ Usage
 -----
 
 Invoke the command with '`acronymfinder`', '`af`', or '`search using acronymfinder`'. Any selected text in the page will be the acronym to search for.
-You may filter the results to a specific category of results by adding "in <category>" to the command. Available categroies are:
-* IT - for Information-Technology
-* Gov - for Military-and-Government
-* Science - for Science-and-Medicine
-* Org - for Organizations
+You may filter the results to a specific category of results by adding '`in <category>`' to the command. Available categroies are:
+* IT: for information technology
+* Gov: for military and government
+* Science: for science and medicine
+* Org: for organizations
 * Business
 * Slang
