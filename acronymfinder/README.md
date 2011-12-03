@@ -19,6 +19,7 @@ Usage
 
 Invoke the command with '`acronymfinder`', '`af`', or '`search using acronymfinder`'. Any selected text in the page will be the acronym to search for.
 You may filter the results to a specific category of results by adding '`in <category>`' to the command. Available categroies are:
+
 * IT: for information technology
 * Gov: for military and government
 * Science: for science and medicine
